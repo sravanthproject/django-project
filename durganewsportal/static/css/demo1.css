@@ -1,0 +1,25 @@
+.container .jumbotron{
+  background: red;
+  color: white;
+  margin-top: 150px;
+}
+body{
+  background:
+  url(https://images.pexels.com/photos/1363876/pexels-photo-1363876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+}
+
+h1{
+  color: yellow;
+  text-align: center;
+}
+ul{
+  color: yellow;
+  font-size: 25px;
+}
+img{
+  height: 250px;
+  width: 40%;
+
+
+
+}
